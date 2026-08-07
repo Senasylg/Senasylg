@@ -596,6 +596,18 @@
       <!-- VERTICAL TEXT SCANNER                             -->
       <!-- ================================================== -->
 
+<<<<<<< HEAD
+=======
+      <!--
+        Scanner:
+        - location'dan başlar
+        - email'e kadar iner
+        - Industrial & Computer Engineer'a çıkmaz
+        - Skills'e inmez
+        - tüm satırı yatay olarak kaplar
+      -->
+
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
       <g clip-path="url(#detailsScanClip)">
 
         <rect
@@ -615,8 +627,15 @@
             repeatCount="indefinite"
           />
         </rect>
+<<<<<<< HEAD
       </g>
 
+=======
+
+      </g>
+
+
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
       <!-- ================================================== -->
       <!-- SKILLS                                             -->
       <!-- ================================================== -->
@@ -736,10 +755,18 @@
           </text>
         </g>
 
+<<<<<<< HEAD
         <!-- + (plus) icon -->
         <g transform="translate(462, 0)">
           <rect
             width="28"
+=======
+
+        <!-- Vensim -->
+        <g transform="translate(462, 0)">
+          <rect
+            width="76"
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
             height="28"
             rx="14"
             fill="rgba(0, 229, 255, 0.08)"
@@ -748,6 +775,7 @@
           />
 
           <text
+<<<<<<< HEAD
             x="14"
             y="19"
             text-anchor="middle"
@@ -757,6 +785,17 @@
             fill="#00E5FF"
           >
             +
+=======
+            x="38"
+            y="18"
+            text-anchor="middle"
+            font-family="system-ui, -apple-system, Inter, sans-serif"
+            font-size="12"
+            font-weight="600"
+            fill="#E0F2FE"
+          >
+            Vensim
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
           </text>
         </g>
 
@@ -892,6 +931,7 @@
 
       </g>
 
+<<<<<<< HEAD
       <!-- ================================================== -->
       <!-- 5. SOCIAL LINKS                                   -->
       <!-- ================================================== -->
@@ -1311,12 +1351,18 @@
         </g>
 
       </g>
+=======
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
 
       <!-- ================================================== -->
       <!-- CONNECT FOOTER                                    -->
       <!-- ================================================== -->
 
+<<<<<<< HEAD
       <g transform="translate(0, 420)">
+=======
+      <g transform="translate(0, 362)">
+>>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
 
         <text
           x="0"
