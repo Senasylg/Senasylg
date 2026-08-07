@@ -712,10 +712,10 @@
         </g>
 
 
-        <!-- Optimization -->
+        <!-- React -->
         <g transform="translate(350, 0)">
           <rect
-            width="104"
+            width="66"
             height="28"
             rx="14"
             fill="rgba(2, 132, 199, 0.06)"
@@ -724,7 +724,7 @@
           />
 
           <text
-            x="52"
+            x="33"
             y="18"
             text-anchor="middle"
             font-family="system-ui, -apple-system, Inter, sans-serif"
@@ -732,14 +732,15 @@
             font-weight="600"
             fill="#0369A1"
           >
-            Optimization
+            React
           </text>
         </g>
 
-        <!-- + (plus) icon -->
-        <g transform="translate(462, 0)">
+
+        <!-- AutoCAD -->
+        <g transform="translate(424, 0)">
           <rect
-            width="28"
+            width="84"
             height="28"
             rx="14"
             fill="rgba(2, 132, 199, 0.06)"
@@ -748,15 +749,15 @@
           />
 
           <text
-            x="14"
-            y="19"
+            x="42"
+            y="18"
             text-anchor="middle"
             font-family="system-ui, -apple-system, Inter, sans-serif"
-            font-size="16"
-            font-weight="700"
-            fill="#0284C7"
+            font-size="12"
+            font-weight="600"
+            fill="#0369A1"
           >
-            +
+            AutoCAD
           </text>
         </g>
 
@@ -766,7 +767,7 @@
       <!-- Skill Row 2 -->
       <g transform="translate(0, 292)">
 
-        <!-- Arena -->
+        <!-- Arena Simulation -->
         <g transform="translate(0, 0)">
           <rect
             width="132"
@@ -791,10 +792,10 @@
         </g>
 
 
-        <!-- AutoCAD -->
+        <!-- Optimization -->
         <g transform="translate(140, 0)">
           <rect
-            width="84"
+            width="104"
             height="28"
             rx="14"
             fill="rgba(2, 132, 199, 0.06)"
@@ -803,7 +804,7 @@
           />
 
           <text
-            x="42"
+            x="52"
             y="18"
             text-anchor="middle"
             font-family="system-ui, -apple-system, Inter, sans-serif"
@@ -811,13 +812,13 @@
             font-weight="600"
             fill="#0369A1"
           >
-            AutoCAD
+            Optimization
           </text>
         </g>
 
 
         <!-- SOLIDWORKS -->
-        <g transform="translate(232, 0)">
+        <g transform="translate(252, 0)">
           <rect
             width="112"
             height="28"
@@ -841,33 +842,8 @@
         </g>
 
 
-        <!-- React -->
-        <g transform="translate(352, 0)">
-          <rect
-            width="66"
-            height="28"
-            rx="14"
-            fill="rgba(2, 132, 199, 0.06)"
-            stroke="rgba(2, 132, 199, 0.35)"
-            stroke-width="1"
-          />
-
-          <text
-            x="33"
-            y="18"
-            text-anchor="middle"
-            font-family="system-ui, -apple-system, Inter, sans-serif"
-            font-size="12"
-            font-weight="600"
-            fill="#0369A1"
-          >
-            React
-          </text>
-        </g>
-
-
         <!-- MS SQL -->
-        <g transform="translate(426, 0)">
+        <g transform="translate(372, 0)">
           <rect
             width="76"
             height="28"
@@ -890,10 +866,35 @@
           </text>
         </g>
 
+
+        <!-- + (plus) icon -->
+        <g transform="translate(456, 0)">
+          <rect
+            width="28"
+            height="28"
+            rx="14"
+            fill="rgba(2, 132, 199, 0.06)"
+            stroke="rgba(2, 132, 199, 0.35)"
+            stroke-width="1"
+          />
+
+          <text
+            x="14"
+            y="19"
+            text-anchor="middle"
+            font-family="system-ui, -apple-system, Inter, sans-serif"
+            font-size="16"
+            font-weight="700"
+            fill="#0284C7"
+          >
+            +
+          </text>
+        </g>
+
       </g>
 
       <!-- ================================================== -->
-      <!-- 5. SOCIAL LINKS                                   -->
+      <!-- 5. SOCIAL LINKS (TIKLANABILIR BUTONLAR)          -->
       <!-- ================================================== -->
 
       <g transform="translate(0, 347)">
@@ -910,7 +911,7 @@
           CONNECT
         </text>
 
-        <!-- GitHub -->
+        <!-- GitHub Butonu -->
         <a href="https://github.com/Senasylg" target="_blank">
           <g transform="translate(0, 10)">
             <rect
@@ -920,7 +921,16 @@
               fill="rgba(2, 132, 199, 0.06)"
               stroke="rgba(2, 132, 199, 0.35)"
               stroke-width="1"
-            />
+              cursor="pointer"
+            >
+              <animate
+                attributeName="fill-opacity"
+                values="1;0.7;1"
+                dur="0.3s"
+                begin="mouseover"
+                repeatCount="1"
+              />
+            </rect>
             <text
               x="52"
               y="20"
@@ -929,13 +939,14 @@
               font-size="11"
               font-weight="600"
               fill="#0F172A"
+              cursor="pointer"
             >
               GitHub
             </text>
           </g>
         </a>
 
-        <!-- LinkedIn -->
+        <!-- LinkedIn Butonu -->
         <a href="https://linkedin.com/in/senasaylig" target="_blank">
           <g transform="translate(113, 10)">
             <rect
@@ -945,7 +956,16 @@
               fill="rgba(2, 132, 199, 0.06)"
               stroke="rgba(2, 132, 199, 0.35)"
               stroke-width="1"
-            />
+              cursor="pointer"
+            >
+              <animate
+                attributeName="fill-opacity"
+                values="1;0.7;1"
+                dur="0.3s"
+                begin="mouseover"
+                repeatCount="1"
+              />
+            </rect>
             <text
               x="52"
               y="20"
@@ -954,13 +974,14 @@
               font-size="11"
               font-weight="600"
               fill="#0F172A"
+              cursor="pointer"
             >
               LinkedIn
             </text>
           </g>
         </a>
 
-        <!-- Email -->
+        <!-- Email Butonu -->
         <a href="mailto:senasaylig@gmail.com">
           <g transform="translate(226, 10)">
             <rect
@@ -970,7 +991,16 @@
               fill="rgba(2, 132, 199, 0.06)"
               stroke="rgba(2, 132, 199, 0.35)"
               stroke-width="1"
-            />
+              cursor="pointer"
+            >
+              <animate
+                attributeName="fill-opacity"
+                values="1;0.7;1"
+                dur="0.3s"
+                begin="mouseover"
+                repeatCount="1"
+              />
+            </rect>
             <text
               x="52"
               y="20"
@@ -979,6 +1009,7 @@
               font-size="11"
               font-weight="600"
               fill="#0F172A"
+              cursor="pointer"
             >
               Email
             </text>
@@ -988,10 +1019,10 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- 7. TIMELINE (Artırılmış boşluk ile)             -->
+      <!-- 7. TIMELINE (10px sağa kaydırıldı)              -->
       <!-- ================================================== -->
 
-      <g transform="translate(510, 45)">
+      <g transform="translate(520, 45)">
         
         <text
           x="0"
@@ -1005,7 +1036,7 @@
           JOURNEY
         </text>
 
-        <!-- Timeline Çizgisi (uzatıldı) -->
+        <!-- Timeline Çizgisi -->
         <line
           x1="10"
           y1="14"
@@ -1065,7 +1096,7 @@
           </text>
         </g>
 
-        <!-- 2023 - Çift Anadal (boşluk artırıldı) -->
+        <!-- 2023 - Çift Anadal -->
         <g transform="translate(0, 60)">
           <circle cx="10" cy="0" r="5" fill="#059669">
             <animate
@@ -1114,7 +1145,7 @@
           </text>
         </g>
 
-        <!-- 2024 - Staj (boşluk artırıldı) -->
+        <!-- 2024 - Staj -->
         <g transform="translate(0, 102)">
           <circle cx="10" cy="0" r="5" fill="#8B5CF6">
             <animate
@@ -1159,11 +1190,11 @@
             font-size="10"
             fill="#475569"
           >
-            Automotive Intern
+            Production Intern
           </text>
         </g>
 
-        <!-- 2025 - Staj (boşluk artırıldı) -->
+        <!-- 2025 - Staj -->
         <g transform="translate(0, 144)">
           <circle cx="10" cy="0" r="5" fill="#F59E0B">
             <animate
@@ -1208,11 +1239,11 @@
             font-size="10"
             fill="#475569"
           >
-            Internship
+            Production Intern
           </text>
         </g>
 
-        <!-- 2026 - Eker (boşluk artırıldı) -->
+        <!-- 2026 - Eker -->
         <g transform="translate(0, 186)">
           <circle cx="10" cy="0" r="5" fill="#EC4899">
             <animate
@@ -1257,11 +1288,11 @@
             font-size="10"
             fill="#475569"
           >
-            Internship
+            IT Intern
           </text>
         </g>
 
-        <!-- Ziraat Teknoloji (boşluk artırıldı) -->
+        <!-- Ziraat Teknoloji -->
         <g transform="translate(0, 228)">
           <circle cx="10" cy="0" r="5" fill="#06B6D4">
             <animate
@@ -1306,17 +1337,16 @@
             font-size="10"
             fill="#475569"
           >
-            Tech Intern
+            IT Intern
           </text>
         </g>
-
       </g>
 
       <!-- ================================================== -->
-      <!-- CONNECT FOOTER                                    -->
+      <!-- CONNECT FOOTER (2px yukarı çekildi)              -->
       <!-- ================================================== -->
 
-      <g transform="translate(0, 420)">
+      <g transform="translate(0, 418)">
 
         <text
           x="0"
