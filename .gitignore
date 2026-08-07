@@ -1,0 +1,15 @@
+# Ignore local Python build and source files
+build.py
+*.py
+__pycache__/
+**/__pycache__/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Local hidden backup files
+.private/
+
+# Profile image and other local assets
+profile.jpg
