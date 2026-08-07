@@ -2,11 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-<<<<<<< HEAD
     <img alt="Sena Şaylığ GitHub Profile Hero" src="./dark.svg" width="100%" />
-=======
-    <img alt="Sena Şaylıg GitHub Profile Hero" src="./dark.svg" width="100%" />
->>>>>>> 196b66d4282332db38337e5d9be30f048aab342b
   </picture>
 </p>
 
