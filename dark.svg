@@ -131,7 +131,7 @@
       <rect
         x="0"
         y="94"
-        width="668"
+        width="500"
         height="123"
       />
     </clipPath>
@@ -911,7 +911,7 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- 5. SOCIAL LINKS (TIKLANABILIR BUTONLAR)          -->
+      <!-- 5. SOCIAL LINKS       -->
       <!-- ================================================== -->
 
       <g transform="translate(0, 347)">
@@ -1006,7 +1006,7 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- 7. TIMELINE (10px sağa kaydırıldı)              -->
+      <!-- 7. TIMELINE          -->
       <!-- ================================================== -->
 
       <g transform="translate(520, 45)">
@@ -1217,7 +1217,7 @@
             font-size="11"
             fill="#F8FAFC"
           >
-            🥤 Coca Cola İçecek
+            🥤 Coca Cola 
           </text>
           <text
             x="28"
@@ -1315,7 +1315,7 @@
             font-size="11"
             fill="#F8FAFC"
           >
-            🏛️ Ziraat Teknoloji
+            🏛️ Ziraat Technology
           </text>
           <text
             x="28"
