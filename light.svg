@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg
   xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
   viewBox="0 0 1180 560"
   width="1180"
   height="560"
@@ -104,29 +105,7 @@
       </rect>
     </clipPath>
 
-    <!--
-      Details Scanner Clip
-
-      Scanner sadece:
-      ~/location
-      ~/education
-      ~/focus
-      ~/github
-      ~/email
-
-      arasında hareket eder.
-
-      Industrial & Computer Engineer:
-      Y = 64
-
-      Details:
-      Y = 110 - 206
-
-      Skills:
-      Y = 244
-
-      Bu nedenle scanner bu alanların dışına çıkamaz.
-    -->
+    <!-- Details Scanner Clip -->
     <clipPath id="detailsScanClip">
       <rect
         x="0"
@@ -136,20 +115,35 @@
       />
     </clipPath>
 
-    <!-- Button Hover Style -->
+    <!-- Button Styles -->
     <style>
-      .btn {
+      .btn-link {
         cursor: pointer;
-        transition: all 0.3s ease;
+        text-decoration: none;
       }
-      .btn:hover rect {
-        fill: #0284C7;
-        fill-opacity: 0.15;
+      
+      .btn-rect {
+        transition: all 0.2s ease;
+      }
+      
+      .btn-link:hover .btn-rect {
+        fill: rgba(2, 132, 199, 0.15);
         stroke: #0284C7;
         stroke-width: 1.5;
       }
-      .btn:hover text {
+      
+      .btn-link:hover .btn-text {
         fill: #0284C7;
+      }
+      
+      .btn-link:active .btn-rect {
+        fill: rgba(2, 132, 199, 0.25);
+        stroke: #0369A1;
+        stroke-width: 2;
+      }
+      
+      .btn-link:active .btn-text {
+        fill: #0369A1;
       }
     </style>
 
@@ -911,7 +905,7 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- 5. SOCIAL LINKS       -->
+      <!-- SOCIAL LINKS - CLICKABLE BUTTONS                   -->
       <!-- ================================================== -->
 
       <g transform="translate(0, 347)">
@@ -928,10 +922,11 @@
           CONNECT
         </text>
 
-        <!-- GitHub Butonu -->
-        <a href="https://github.com/Senasylg" target="_blank">
-          <g class="btn" transform="translate(0, 10)">
+        <!-- GitHub Button -->
+        <a xlink:href="https://github.com/Senasylg" target="_top" class="btn-link">
+          <g transform="translate(0, 10)">
             <rect
+              class="btn-rect"
               width="105"
               height="30"
               rx="6"
@@ -940,6 +935,7 @@
               stroke-width="1"
             />
             <text
+              class="btn-text"
               x="52"
               y="20"
               text-anchor="middle"
@@ -953,10 +949,11 @@
           </g>
         </a>
 
-        <!-- LinkedIn Butonu -->
-        <a href="https://linkedin.com/in/senasaylig" target="_blank">
-          <g class="btn" transform="translate(113, 10)">
+        <!-- LinkedIn Button -->
+        <a xlink:href="https://linkedin.com/in/senasaylig" target="_top" class="btn-link">
+          <g transform="translate(113, 10)">
             <rect
+              class="btn-rect"
               width="105"
               height="30"
               rx="6"
@@ -965,6 +962,7 @@
               stroke-width="1"
             />
             <text
+              class="btn-text"
               x="52"
               y="20"
               text-anchor="middle"
@@ -978,10 +976,11 @@
           </g>
         </a>
 
-        <!-- Email Butonu -->
-        <a href="mailto:senasaylig@gmail.com">
-          <g class="btn" transform="translate(226, 10)">
+        <!-- Email Button -->
+        <a xlink:href="mailto:senasaylig@gmail.com" target="_top" class="btn-link">
+          <g transform="translate(226, 10)">
             <rect
+              class="btn-rect"
               width="105"
               height="30"
               rx="6"
@@ -990,6 +989,7 @@
               stroke-width="1"
             />
             <text
+              class="btn-text"
               x="52"
               y="20"
               text-anchor="middle"
@@ -1006,7 +1006,7 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- 7. TIMELINE          -->
+      <!-- TIMELINE                                           -->
       <!-- ================================================== -->
 
       <g transform="translate(520, 45)">
@@ -1023,7 +1023,7 @@
           JOURNEY
         </text>
 
-        <!-- Timeline Çizgisi -->
+        <!-- Timeline Line -->
         <line
           x1="10"
           y1="14"
@@ -1034,7 +1034,7 @@
           opacity="0.3"
         />
 
-        <!-- 2022 - Başlangıç -->
+        <!-- 2022 -->
         <g transform="translate(0, 18)">
           <circle cx="10" cy="0" r="5" fill="#0284C7">
             <animate
@@ -1083,7 +1083,7 @@
           </text>
         </g>
 
-        <!-- 2023 - Çift Anadal -->
+        <!-- 2023 -->
         <g transform="translate(0, 60)">
           <circle cx="10" cy="0" r="5" fill="#059669">
             <animate
@@ -1132,7 +1132,7 @@
           </text>
         </g>
 
-        <!-- 2024 - Staj -->
+        <!-- 2024 -->
         <g transform="translate(0, 102)">
           <circle cx="10" cy="0" r="5" fill="#8B5CF6">
             <animate
@@ -1181,7 +1181,7 @@
           </text>
         </g>
 
-        <!-- 2025 - Staj -->
+        <!-- 2025 -->
         <g transform="translate(0, 144)">
           <circle cx="10" cy="0" r="5" fill="#F59E0B">
             <animate
@@ -1279,7 +1279,7 @@
           </text>
         </g>
 
-        <!-- Ziraat Teknoloji -->
+        <!-- 2026 - Ziraat -->
         <g transform="translate(0, 228)">
           <circle cx="10" cy="0" r="5" fill="#06B6D4">
             <animate
@@ -1330,7 +1330,7 @@
       </g>
 
       <!-- ================================================== -->
-      <!-- CONNECT FOOTER (2px yukarı çekildi)              -->
+      <!-- CONNECT FOOTER                                     -->
       <!-- ================================================== -->
 
       <g transform="translate(0, 418)">

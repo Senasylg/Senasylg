@@ -16,10 +16,10 @@
 
 ### 🚀 About Me
 
-> **Industrial & Computer Engineer** working at the intersection of software development, data science, artificial intelligence, process optimization, and industrial digitalization.
+> **Industrial and Computer Engineer:** I work in the fields of software development, data science, artificial intelligence, optimization, and industrial digitalization.
 
-- 📍 **Location**: Bursa, Türkiye
-- 🎯 **Core Focus**: Data Science, Machine Learning, AI Applications, Process Optimization, Industrial Digitalization & Simulation.
+- 📍 **Location**: Nilüfer, Bursa, Türkiye
+- 🎯 **Core Focus**: Data Science, Machine Learning, AI Applications, Optimization, Industrial Digitalization & Simulation.
 - 💡 **Vision**: Bridging industrial engineering methodologies with modern software architectures to build intelligent, data-driven engineering systems.
 
 ---
@@ -33,13 +33,13 @@
       <b>Balıkesir University</b><br>
       • <b>Period:</b> <code>2022 – 2026</code><br>
       • <b>GPA:</b> <code>3.70 / 4.00</code> <i>(Department Top Student)</i><br>
-      • <b>Focus:</b> Operations Research, Production Planning, Quality Control & System Simulation.
+      • <b>Focus:</b> Operations Research · Optimization · Supply Chain Management · Decision Analysis · Simulation
     </td>
     <td width="50%" valign="top">
-      <h4>💻 Computer Engineering (Double Major / ÇAP)</h4>
+      <h4>💻 Computer Engineering (Double Major)</h4>
       <b>Balıkesir University</b><br>
       • <b>Period:</b> <code>2023 – 2027</code> <i>(Expected)</i><br>
-      • <b>Focus:</b> Software Engineering, Data Structures & Algorithms, Artificial Intelligence, Database Management Systems.
+      • <b>Focus:</b> Software Engineering · Data Structures & Algorithms · Artificial Intelligence · Machine Learning · Database Systems · Data Science
     </td>
   </tr>
 </table>
