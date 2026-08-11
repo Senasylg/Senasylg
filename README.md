@@ -135,19 +135,29 @@
 | **📋 Productivity & Documentation**     | `Notion` `Microsoft Office`                                               |
 | **🔧 Version Control & Collaboration**  | `Git` `GitHub`                                                            |
 
----
+----
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Senasylg&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senasylg&layout=compact&hide_border=true&langs_count=8" height="180" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Senasylg&show_icons=true&hide_border=true"
+    height="180"
+    alt="Sena's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senasylg&layout=compact&hide_border=true"
+    height="180"
+    alt="Sena's Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Senasylg&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Senasylg&hide_border=true"
+    height="180"
+    alt="Sena's GitHub Streak"
+  />
 </p>
-
 ---
 
 <p align="center">
