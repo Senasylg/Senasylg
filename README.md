@@ -79,7 +79,7 @@
 
 ### 💡 Featured Projects
 
-> #### 🌟 TÜBİTAK 2209-A University Students Research Projects Support Program
+#### 🌟 TÜBİTAK 2209-A University Students Research Projects Support Program
 
 > **Project Title:** *Rich, Green & Security-Focused Vehicle Routing for ATM Cash Distribution*  
 > **Project Type:** Academic Research & Development Project  
@@ -89,7 +89,7 @@
 
 > **Methodologies:** Mixed-Integer Programming (MIP), Multi-Objective Optimization, Epsilon-Constraint Method, Rich Vehicle Routing Problem, and Pareto Analysis.
 
-> **Technologies:** Python, Gurobi, Streamlit, Folium, and Haversine Distance.
+> **Technologies:** Python, Gurobi and Streamlit.
 
 > **Key Output:** Developed an interactive decision-support program for optimizing ATM cash distribution routes and analyzing different scenarios based on cost, environmental impact, and security risk. The system enables comparison of alternative routing solutions and supports the evaluation of trade-offs between the three objectives.
 
@@ -103,14 +103,23 @@
 
 ---
 
-### 🛠 Technical Skills & Categorization
+### 🛠 Technical Skills & Tools
 
-| Category | Technologies & Tools |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **🔄 Simulation & System Dynamics** | `Vensim` `Arena Rockwell Simulation` |
-| **📐 CAD & Design Software** | `AutoCAD` `SOLIDWORKS` |
-| **💻 Programming & Software Development** | `Python` `C#` `JavaScript` `React` `Excel VBA` `HTML5` `CSS3` |
-| **🗄️ Data Analytics, AI & Databases** | `Machine Learning` `Data Science` `Optimization` `MS SQL Server` `PostgreSQL` `Git` |
+| **💻 Programming & Development** | `Python` `C#` `JavaScript` `React` `HTML5` `CSS3` `Excel VBA` |
+| **🗄️ Databases & Data** | `MS SQL Server` `MySQL` `SQLite` |
+| **🤖 Data Science & Machine Learning** | `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Plotly` `Seaborn` |
+| **📐 Optimization** | `Gurobi Optimizer` |
+| **📈 Statistical Analysis & Quality** | `Minitab` `SPSS` |
+| **🤖 Simulation & System Modeling** | `Arena Rockwell Simulation` `FlexSim` `Vensim` `MATLAB Simulink` |
+| **🏭 CAD, CAM & Manufacturing** | `CATIA` `AutoCAD` `SOLIDWORKS`|
+| **🔌 Electronics & Embedded Systems** | `Arduino` `Proteus` `Tinkercad` |
+| **🌐 Networking** | `Cisco Packet Tracer` |
+| **☁️ Cloud, Monitoring & Applications** | `AWS` `Grafana` `Streamlit` `Folium` |
+| **🏢 Enterprise & Business Systems** | `SAP` `QDMS` |
+| **📋 Productivity & Documentation** | `Notion` `Microsoft Office` |
+| **🔧 Version Control & Collaboration** | `Git` `GitHub` |
 
 ---
 
