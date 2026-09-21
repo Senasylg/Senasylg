@@ -1,4 +1,10 @@
 <p align="center">
+  <b>English</b>
+  &nbsp;·&nbsp;
+  <a href="README.tr.md">Türkçe</a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light.svg">
