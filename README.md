@@ -73,7 +73,7 @@
 
 #### 🥛 Eker Süt Ürünleri — *Software Intern*
 
-> **Period:** `Jul 2026 – Aug 2026` · **Unit:** Information Technology, Bursa · **Program:** Summer Internship Program (Software Internship-I)
+> **Period:** `Jul 2026 – Aug 2026` · **Unit:** Information Technology, Bursa Headquarters · **Program:** Summer Internship Program (Software Internship-I)
 
 * **Scope & Contributions:** System analysis, software development, database design, process digitalization, and decision-support solutions.
 * **Featured Projects:**
@@ -95,7 +95,7 @@
 
 #### 🚗 Beyçelik Gestamp Automotive — *Production Intern*
 
-> **Period:** `Jul 2024` · **Unit:** Press Production & Production Planning, Bursa · **Program:** Summer Internship Program
+> **Period:** `Jul 2024` · **Unit:** Press Production, Teknosab Plant · **Program:** Summer Internship Program
 
 * **Scope & Contributions:** Gained hands-on experience across production, quality, logistics, R&D, and process engineering, while analyzing manufacturing workflows and shop-floor operations.
 * **Manufacturing Experience:** Observed diverse manufacturing processes, material transformation methods, press operations, machining workflows, process parameters, and quality control practices.
