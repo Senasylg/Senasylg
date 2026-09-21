@@ -7,6 +7,8 @@
 </p>
 
 <p align="center">
+  <a href="https://sena-saylig-portfolyo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sena-%C5%9Fayl%C4%B1%C4%9F-349459316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:senasaylig@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -18,6 +20,7 @@
 
 > **Industrial and Computer Engineer:** I work in the fields of software development, data science, artificial intelligence, optimization, and industrial digitalization.
 
+* 🌐 **Portfolio**: [sena-saylig-portfolyo.vercel.app](https://sena-saylig-portfolyo.vercel.app)
 * 📍 **Location**: Nilüfer, Bursa, Türkiye
 * 🎯 **Core Focus**: Data Science, Machine Learning, AI Applications, Optimization, Industrial Digitalization & Simulation.
 * 💡 **Vision**: Bridging industrial engineering methodologies with modern software architectures to build intelligent, data-driven engineering systems.
@@ -168,30 +171,6 @@
 | **🏢 Enterprise & Business Systems**    | `SAP` `QDMS`                                                              |
 | **📋 Productivity & Documentation**     | `Notion` `Microsoft Office`                                               |
 | **🔧 Version Control & Collaboration**  | `Git` `GitHub`                                                            |
-
-----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Senasylg&show_icons=true&hide_border=true"
-    height="180"
-    alt="Sena's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senasylg&layout=compact&hide_border=true"
-    height="180"
-    alt="Sena's Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Senasylg&hide_border=true"
-    height="180"
-    alt="Sena's GitHub Streak"
-  />
-</p>
 
 ----
 
