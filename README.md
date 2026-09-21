@@ -71,9 +71,9 @@
   * 🌟 **Autonomous Credit Allocation Analyst (AI Agents):** Decision-support system for commercial loan applications, pairing a deterministic scoring engine (LightGBM + isotonic calibration + SHAP explanations + policy rules) with a five-agent CrewAI team that interprets the score and drafts a reasoned allocation report. Agents can never produce numbers — an auditor agent checks every claim against the engine. **AUC 0.940** with a **43% improvement in Brier score** over the raw model, validated against a logistic-regression baseline with bootstrap comparison, plus fairness analysis and role-based access control.
 * **Technologies:** Python, OpenAI API, Prompt Engineering, RAG, Embeddings, Chroma, CrewAI, LightGBM, SHAP, Gradio, Streamlit, FastAPI, Flask, SQL, and sqlglot.
 
-#### 🥛 Eker Süt Ürünleri — *Software Intern · IT Department*
+#### 🥛 Eker Süt Ürünleri — *Software Intern*
 
-> **Period:** `Jul 2026 – Aug 2026`
+> **Period:** `Jul 2026 – Aug 2026` · **Unit:** Information Technology, Bursa · **Program:** Summer Internship Program (Software Internship-I)
 
 * **Scope & Contributions:** System analysis, software development, database design, process digitalization, and decision-support solutions.
 * **Featured Projects:**
@@ -85,7 +85,7 @@
 
 #### 🥤 Coca-Cola İçecek — *Production Intern*
 
-> **Period:** `Jul 2025 – Sep 2025` · **Location:** Bursa Plant
+> **Period:** `Jul 2025 – Sep 2025` · **Unit:** Production, Bursa Plant · **Program:** Summer Internship Program
 
 * 🌟 **Featured Project:** Digitalization of Water Recovery Systems.
 * **Project Description:** Contributed to the water recovery digitalization project from field analysis through system design and project presentations. Worked on-site to understand the existing process, supported the transition to digital meters, and contributed to the design of monitoring screens and Grafana dashboards.
@@ -93,9 +93,9 @@
 * **Technologies:** AWS, Grafana, Digital Metering, and Data Monitoring.
 * 🛡️ **Occupational Health & Safety Project:** Prepared and presented an RFID-based Emergency Assembly Point project focused on improving personnel tracking and emergency assembly processes, using UHF RFID tags for real-time headcount.
 
-#### 🚗 Beyçelik Gestamp Automotive — *Production Intern (Press Production Department)*
+#### 🚗 Beyçelik Gestamp Automotive — *Production Intern*
 
-> **Period:** `Jul 2024`
+> **Period:** `Jul 2024` · **Unit:** Press Production & Production Planning, Bursa · **Program:** Summer Internship Program
 
 * **Scope & Contributions:** Gained hands-on experience across production, quality, logistics, R&D, and process engineering, while analyzing manufacturing workflows and shop-floor operations.
 * **Manufacturing Experience:** Observed diverse manufacturing processes, material transformation methods, press operations, machining workflows, process parameters, and quality control practices.
