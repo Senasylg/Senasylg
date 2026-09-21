@@ -32,7 +32,7 @@
       <h4>🎓 Industrial Engineering (B.S.)</h4>
       <b>Balıkesir University</b><br>
       • <b>Period:</b> <code>2022 – 2026</code><br>
-      • <b>GPA:</b> <code>3.70 / 4.00</code> <i>(Department Top Student)</i><br>
+      • <b>GPA:</b> <code>3.70 / 4.00</code><br>
       • <b>Focus:</b> Operations Research · Optimization · Supply Chain Management · Decision Analysis · Simulation
     </td>
     <td width="50%" valign="top">
@@ -48,17 +48,15 @@
 
 ### 🏆 Achievements & Honors
 
-* 🥇 **Department Top Student** — Industrial Engineering, Balıkesir University (GPA 3.70 / 4.00)
-* 📜 **TÜBİTAK 2209-A Research Grant** — Awarded support for *Rich, Green & Security-Focused Vehicle Routing for ATM Cash Distribution*
-* 🎤 **ICAME 2026 Conference Paper** — Presented *“Rich, Green and Security-Focused Route Optimization”* at the 4th International Conference on Applied Mathematics in Engineering (Paper No. 192); presentation certificate received
+* 🥇 **Department Top Student** — Industrial Engineering, Balıkesir University (Class of 2026)
 
 ---
 
 ### 💼 Professional Experience
 
-#### 🏛️ Ziraat Technology — *Software Intern · AI Applications Unit*
+#### 🏛️ Ziraat Technology — *Artificial Intelligence Applications Intern*
 
-> **Location:** Istanbul Financial Center · **Program:** Short-Term Internship Program (Software Internship-II)
+> **Period:** `Aug 2026 – Sep 2026` · **Unit:** AI Applications, Istanbul Financial Center · **Program:** Short-Term Internship Program (Software Internship-II)
 
 * **Scope & Contributions:** Completed an eight-task applied AI program in the AI Applications Unit, spanning LLM research, prompt engineering, embedding-based classification, retrieval-augmented generation, and natural-language-to-SQL systems. Every task was delivered as a working system with its own objective test set and measured accuracy.
 * **Featured Projects:**
@@ -70,25 +68,31 @@
   * 🌟 **Autonomous Credit Allocation Analyst (AI Agents):** Decision-support system for commercial loan applications, pairing a deterministic scoring engine (LightGBM + isotonic calibration + SHAP explanations + policy rules) with a five-agent CrewAI team that interprets the score and drafts a reasoned allocation report. Agents can never produce numbers — an auditor agent checks every claim against the engine. **AUC 0.940** with a **43% improvement in Brier score** over the raw model, validated against a logistic-regression baseline with bootstrap comparison, plus fairness analysis and role-based access control.
 * **Technologies:** Python, OpenAI API, Prompt Engineering, RAG, Embeddings, Chroma, CrewAI, LightGBM, SHAP, Gradio, Streamlit, FastAPI, Flask, SQL, and sqlglot.
 
-#### 🥛 Eker Süt Ürünleri — *IT Intern*
+#### 🥛 Eker Süt Ürünleri — *Software Intern · IT Department*
 
+> **Period:** `Jul 2026 – Aug 2026`
+
+* **Scope & Contributions:** System analysis, software development, database design, process digitalization, and decision-support solutions.
 * **Featured Projects:**
 
-  * 🌟 **Demand Automation System:** Developed a digital demand management system to streamline product demand collection, tracking, and operational workflows.
-  * 🌟 **Fleet & Route Management System:** Developed a distribution management solution for fleet tracking, route planning, and delivery operations across multiple distribution regions.
-  * 🌟 **AI-Powered Archive System:** Developed a centralized archive for receipts and business documents, enabling structured storage, search, and AI-assisted document analysis.
-* **Scope & Contributions:** System analysis, software development, database design, process digitalization, and decision-support solutions.
+  * 🌟 **Demand Automation System:** Built a digital demand management system for product demand collection, tracking, and operational workflows, combining a permission-controlled Flask API with a Spring AI decision-support service and a RAG integration.
+  * 🌟 **Fleet & Route Management System:** Developed a distribution management dashboard for fleet tracking, route planning, and delivery operations across multiple distribution regions.
+  * 🌟 **AI-Powered Archive System:** Built a searchable digital archive for receipts and business documents using OCR, enabling structured storage, retrieval, and AI-assisted document analysis.
+* **Technologies:** Python, Flask, Spring AI, Gemini, OCR, RAG, and SQL.
 
 #### 🥤 Coca-Cola İçecek — *Production Intern*
+
+> **Period:** `Jul 2025 – Sep 2025` · **Location:** Bursa Plant
 
 * 🌟 **Featured Project:** Digitalization of Water Recovery Systems.
 * **Project Description:** Contributed to the water recovery digitalization project from field analysis through system design and project presentations. Worked on-site to understand the existing process, supported the transition to digital meters, and contributed to the design of monitoring screens and Grafana dashboards.
 * **Project Activities:** Field Analysis, Process Analysis, System & Dashboard Design, Data Monitoring, Project Meetings, and Presentations.
 * **Technologies:** AWS, Grafana, Digital Metering, and Data Monitoring.
-* 🛡️ **Occupational Health & Safety Project:** Prepared and presented an RFID-based Emergency Assembly Point project focused on improving personnel tracking and emergency assembly processes.
-* **Technologies:** UHF RFID, RFID Tags, and Personnel Tracking.
+* 🛡️ **Occupational Health & Safety Project:** Prepared and presented an RFID-based Emergency Assembly Point project focused on improving personnel tracking and emergency assembly processes, using UHF RFID tags for real-time headcount.
 
 #### 🚗 Beyçelik Gestamp Automotive — *Production Intern (Press Production Department)*
+
+> **Period:** `Jul 2024`
 
 * **Scope & Contributions:** Gained hands-on experience across production, quality, logistics, R&D, and process engineering, while analyzing manufacturing workflows and shop-floor operations.
 * **Manufacturing Experience:** Observed diverse manufacturing processes, material transformation methods, press operations, machining workflows, process parameters, and quality control practices.
@@ -123,7 +127,7 @@
 
 #### 🚛 Operations Research & Optimization
 
-* **Vehicle Routing & Cargo Distribution Optimization:** Solving Vehicle Routing Problems (VRP) and logistics with Genetic Algorithms.
+* **Cargo Distribution with Genetic Algorithms:** Metaheuristic approach to vehicle routing and logistics planning — a separate coursework study from the exact MILP model above.
 * **Production & Inventory Simulation:** Process modeling and efficiency optimization using Arena Simulation and Vensim.
 
 ---
@@ -145,7 +149,7 @@
 
 | Category                                | Tools & Technologies                                                      |
 | :-------------------------------------- | :------------------------------------------------------------------------ |
-| **💻 Programming & Development**        | `Python` `C#` `HTML5` `CSS3` `JavaScript` `React` `SQL` `Excel VBA`       |
+| **💻 Programming & Development**        | `Python` `C#` `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `SQL` `Excel VBA` |
 | **🗄️ Databases & Data**                | `MS SQL Server` `MySQL` `SQLite`                                          |
 | **🤖 Data Science & Machine Learning**  | `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Plotly` `Seaborn` |
 | **🧠 AI & LLM Engineering**             | `OpenAI API` `Prompt Engineering` `RAG` `Embeddings` `Chroma` `CrewAI` `LightGBM` `SHAP` `Gradio` |
