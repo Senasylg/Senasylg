@@ -99,7 +99,7 @@
           attributeName="width"
           values="0;230;230;0"
           keyTimes="0;0.45;0.9;1"
-          dur="6s"
+          dur="12s"
           repeatCount="indefinite"
         />
       </rect>
@@ -430,36 +430,6 @@
             lengthAdjust="spacingAndGlyphs"
           >
             Industrial &amp; Computer Engineer
-            <animate
-              attributeName="opacity"
-              values="1;0"
-              keyTimes="0;0.5"
-              calcMode="discrete"
-              dur="12s"
-              repeatCount="indefinite"
-            />
-          </text>
-
-          <text
-            x="0"
-            y="16"
-            font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace"
-            font-size="14"
-            font-weight="700"
-            fill="url(#accentGrad)"
-            textLength="230"
-            lengthAdjust="spacingAndGlyphs"
-            opacity="0"
-          >
-            Endüstri &amp; Bilgisayar Mühendisi
-            <animate
-              attributeName="opacity"
-              values="0;1"
-              keyTimes="0;0.5"
-              calcMode="discrete"
-              dur="12s"
-              repeatCount="indefinite"
-            />
           </text>
         </g>
 
@@ -475,7 +445,7 @@
             attributeName="x"
             values="18;248;248;18"
             keyTimes="0;0.45;0.9;1"
-            dur="6s"
+            dur="12s"
             repeatCount="indefinite"
           />
 
@@ -483,7 +453,7 @@
             attributeName="opacity"
             values="1;1;1;0"
             keyTimes="0;0.45;0.9;1"
-            dur="6s"
+            dur="12s"
             repeatCount="indefinite"
           />
         </rect>
