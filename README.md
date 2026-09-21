@@ -158,7 +158,8 @@
     alt="Sena's GitHub Streak"
   />
 </p>
----
+
+----
 
 <p align="center">
   <i>✨ Thanks for visiting my GitHub profile! Feel free to explore my repositories or get in touch. ✨</i>
