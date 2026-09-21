@@ -49,6 +49,8 @@
 ### 🏆 Achievements & Honors
 
 * 🥇 **Department Top Student** — Industrial Engineering, Balıkesir University (Class of 2026)
+* 📜 **TÜBİTAK 2209-A Research Grant** — National research funding awarded for the undergraduate thesis project detailed below
+* 🎤 **ICAME 2026 Conference Paper** — Paper No. 192 presented at the 4th International Conference on Applied Mathematics in Engineering (Cunda / Ayvalık, September 2026); presentation certificate received
 
 ---
 
