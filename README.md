@@ -156,6 +156,7 @@
 | **💻 Programming & Development**        | `Python` `C#` `HTML5` `CSS3` `JavaScript` `TypeScript` `React` `SQL` `Excel VBA` |
 | **🗄️ Databases & Data**                | `MS SQL Server` `MySQL` `SQLite`                                          |
 | **🤖 Data Science & Machine Learning**  | `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Plotly` `Seaborn` |
+| **⚛️ Quantum & High-Performance Computing** | `Qiskit` `IBM Quantum` `TRUBA (National HPC)`                       |
 | **🧠 AI & LLM Engineering**             | `OpenAI API` `Prompt Engineering` `RAG` `Embeddings` `Chroma` `CrewAI` `LightGBM` `SHAP` `Gradio` |
 | **📐 Optimization**                     | `Gurobi Optimizer` `pymoo / NSGA-II`                                      |
 | **📈 Statistical Analysis & Quality**   | `Minitab` `SPSS`                                                          |
