@@ -48,6 +48,7 @@
 
 ### 🏆 Achievements & Honors
 
+* ⚛️ **SSB Quantum Algorithm Competition — Finalist & Team Leader** — Leading **Quad-State Collapse**, a four-member team competing in the **Finance** category of the national quantum computing competition organized by the Presidency of Defence Industries (SSB) of the Republic of Türkiye. Advanced through the online examination and preliminary elimination stage to the two-day final hackathon held on IBM quantum infrastructure at Teknopark İstanbul.
 * 🥇 **Department Top Student** — Industrial Engineering, Balıkesir University (Class of 2026)
 * 📜 **TÜBİTAK 2209-A Research Grant** — National research funding awarded for the undergraduate thesis project detailed below
 * 🎤 **ICAME 2026 Conference Paper** — Paper No. 192 presented at the 4th International Conference on Applied Mathematics in Engineering (Cunda / Ayvalık, September 2026); presentation certificate received
@@ -144,6 +145,7 @@
 * **Simulation & Data-Driven Engineering**
 * **Large Language Model Applications & Text-to-SQL**
 * **Retrieval-Augmented Generation & Multi-Agent Systems**
+* **Quantum Computing & Quantum Algorithms for Finance**
 
 ---
 
